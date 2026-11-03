@@ -1,4 +1,4 @@
 {
-  "version": "1.2.0",
-  "notes": "Farbmodus Matrix"
+  "version": "1.2.2",
+  "notes": "neu ip Adresse beim aufstarten für ersteinrichtung, kann in der app später deaktiviert werden"
 }
